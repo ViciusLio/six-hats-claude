@@ -1,4 +1,4 @@
-# 🟡 Cappello CREATIVO — Prompt Template
+# 🟡 Cappello CREATIVO  -  Prompt Template
 
 Prompt pronti all'uso per i progetti creativi.
 
@@ -28,7 +28,7 @@ Dammi feedback onesto:
 - Cosa funziona e perché
 - Cosa non funziona o mi fa perdere
 - La domanda che ti viene spontanea dopo averlo letto/ascoltato
-Non darmi la versione "giusta" — dimmi dove guardare.
+Non darmi la versione "giusta"  -  dimmi dove guardare.
 ```
 
 ---
@@ -42,7 +42,7 @@ Ultimo punto in cui mi sono fermato: [descrivi dove sei arrivato].
 Cosa mi blocca (se lo so): [ostacolo percepito o "non lo so"].
 
 Proponi tre direzioni completamente diverse per ripartire.
-Non devo usarle tutte — mi serve solo qualcosa che rompa il loop.
+Non devo usarle tutte  -  mi serve solo qualcosa che rompa il loop.
 ```
 
 ---

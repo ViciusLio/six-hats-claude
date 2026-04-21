@@ -1,4 +1,4 @@
-# 🔴 Cappello BENESSERE — Prompt Template
+# 🔴 Cappello BENESSERE  -  Prompt Template
 
 Prompt pronti all'uso per sport, salute e abitudini.
 
@@ -44,7 +44,7 @@ Sono fermo da [periodo] su [obiettivo / routine].
 Motivo (se lo so): [cosa mi ha bloccato].
 Dove ero arrivato prima: [livello o abitudine precedente].
 
-Non voglio il piano perfetto — voglio la prima cosa concreta da fare questa settimana
+Non voglio il piano perfetto  -  voglio la prima cosa concreta da fare questa settimana
 per ricominciare senza tornare a zero.
 ```
 

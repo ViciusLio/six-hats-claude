@@ -4,11 +4,11 @@
 
 ---
 
-Nel 1985 Edward De Bono pubblicò un libro sottile con un titolo bizzarro. *Six Thinking Hats* — Sei cappelli per pensare. L'idea era semplice: il problema del pensiero non è la mancanza di intelligenza, è che mescoliamo tutto. Emozioni, dati, critiche, idee nuove, ottimismo e pessimismo finiscono nello stesso calderone mentre discutiamo, e il risultato è quello che conoscete: riunioni che non decidono niente, idee che muoiono sotto il peso delle obiezioni prima ancora di essere esplorate.
+Nel 1985 Edward De Bono pubblicò un libro sottile con un titolo bizzarro. *Six Thinking Hats*  -  Sei cappelli per pensare. L'idea era semplice: il problema del pensiero non è la mancanza di intelligenza, è che mescoliamo tutto. Emozioni, dati, critiche, idee nuove, ottimismo e pessimismo finiscono nello stesso calderone mentre discutiamo, e il risultato è quello che conoscete: riunioni che non decidono niente, idee che muoiono sotto il peso delle obiezioni prima ancora di essere esplorate.
 
 De Bono propose una soluzione elegante. Sei cappelli colorati, ognuno con un modo di pensare preciso. Il cappello bianco guarda solo i dati. Il rosso porta le emozioni. Il nero è la critica. Il giallo l'ottimismo. Il verde la creatività. Il blu gestisce il processo. L'idea non era di indossarli tutti insieme, era di indossarli uno alla volta, così che ogni tipo di pensiero avesse il suo spazio senza interferire con gli altri.
 
-Il libro diventò un classico del management, anche se vale la pena dirlo con onestà: le prove che il metodo produca miglioramenti misurabili nel pensiero sono scarse. De Bono era più interessato all'utilità pratica delle sue idee che a dimostrarne scientificamente l'efficacia. Non è un difetto — è una scelta di campo. Il metodo funziona perché funziona nella pratica, non perché lo dice uno studio controllato.
+Il libro diventò un classico del management, anche se vale la pena dirlo con onestà: le prove che il metodo produca miglioramenti misurabili nel pensiero sono scarse. De Bono era più interessato all'utilità pratica delle sue idee che a dimostrarne scientificamente l'efficacia. Non è un difetto  -  è una scelta di campo. Il metodo funziona perché funziona nella pratica, non perché lo dice uno studio controllato.
 
 Decenni dopo, quasi inconsapevolmente, ho ritrovato la stessa logica mentre cercavo di capire come usare Claude in modo sensato.
 
@@ -32,13 +32,13 @@ La differenza pratica è quella che c'è tra parlare con qualcuno che ti conosce
 
 ---
 
-La connessione con De Bono non è solo nominale, ma non è nemmeno identica — e vale la pena dirlo.
+La connessione con De Bono non è solo nominale, ma non è nemmeno identica  -  e vale la pena dirlo.
 
 Il principio profondo è lo stesso: separare i contesti mentali per non mescolarli. De Bono lo faceva per le riunioni di gruppo, per evitare che la critica uccidesse l'idea creativa prima che potesse respirare. Il sistema dei cappelli lo fa per la vita quotidiana, per evitare che il tono da professionista tecnico risponda quando stai cercando un interlocutore filosofico, o che le regole di compliance lavorative contaminino uno spazio in cui vuoi esplorare senza filtri.
 
-Devo però essere preciso su una cosa: nel vocabolario di De Bono, il "pensiero laterale" e i "Sei Cappelli" sono due metodi distinti. Il pensiero laterale serve a generare idee nuove; i Sei Cappelli servono a esplorarle e svilupparle. Il titolo di questo articolo usa "separare i contesti" invece di "pensiero laterale" perché è quello che il sistema fa davvero — non è un'implementazione fedele del framework De Bono, è un'ispirazione che va in una direzione diversa.
+Devo però essere preciso su una cosa: nel vocabolario di De Bono, il "pensiero laterale" e i "Sei Cappelli" sono due metodi distinti. Il pensiero laterale serve a generare idee nuove; i Sei Cappelli servono a esplorarle e svilupparle. Il titolo di questo articolo usa "separare i contesti" invece di "pensiero laterale" perché è quello che il sistema fa davvero  -  non è un'implementazione fedele del framework De Bono, è un'ispirazione che va in una direzione diversa.
 
-C'è però una differenza sostanziale che un lettore attento avrebbe notata comunque. De Bono usava i cappelli come stati temporanei, maschere da indossare e togliere durante una sessione. Nel suo modello, il pericolo principale era trasformare i cappelli in tipi di personalità fissi, cosa che lui stesso metteva in guardia esplicitamente già nell'introduzione. Il sistema che ho costruito rischia esattamente questo: sei Progetti che diventano sei identità rigide invece di sei strumenti flessibili. È un limite reale, non un dettaglio. De Bono Ltd lo ha segnalato come uno degli errori più comuni nelle implementazioni AI del suo metodo — e il sistema dei cappelli che descrivo non ne è immune.
+C'è però una differenza sostanziale che un lettore attento avrebbe notata comunque. De Bono usava i cappelli come stati temporanei, maschere da indossare e togliere durante una sessione. Nel suo modello, il pericolo principale era trasformare i cappelli in tipi di personalità fissi, cosa che lui stesso metteva in guardia esplicitamente già nell'introduzione. Il sistema che ho costruito rischia esattamente questo: sei Progetti che diventano sei identità rigide invece di sei strumenti flessibili. È un limite reale, non un dettaglio. De Bono Ltd lo ha segnalato come uno degli errori più comuni nelle implementazioni AI del suo metodo  -  e il sistema dei cappelli che descrivo non ne è immune.
 
 L'altra critica che un esperto del settore muoverebbe è tecnica: le istruzioni consumano token. Ogni parola che scrivi nelle istruzioni del Progetto è una parola in meno per il lavoro vero. Le istruzioni vanno tenute sotto le cinquecento parole, selezionando solo quello che cambia davvero il comportamento del modello. Scrivere un romanzo di contesto non ti dà un Claude più intelligente, ti dà conversazioni più corte.
 
@@ -72,7 +72,7 @@ Forse il problema con l'AI, oggi, è proprio questo. Non sappiamo ancora cosa vo
 
 Edward De Bono, *Six Thinking Hats*, Little, Brown and Company, 1985.
 
-Sul rapporto tra i Sei Cappelli e l'AI come strumento di prompting: Alan D. Thompson, *AI + Six Thinking Hats*, lifearchitect.ai, novembre 2023. Thompson usa il framework De Bono per visualizzare diverse prospettive sull'AI come fenomeno sociale — un uso diverso dal sistema descritto in questo articolo, ma che tocca la stessa metafora.
+Sul rapporto tra i Sei Cappelli e l'AI come strumento di prompting: Alan D. Thompson, *AI + Six Thinking Hats*, lifearchitect.ai, novembre 2023. Thompson usa il framework De Bono per visualizzare diverse prospettive sull'AI come fenomeno sociale  -  un uso diverso dal sistema descritto in questo articolo, ma che tocca la stessa metafora.
 
 Sulla distinzione tra pensiero laterale e Sei Cappelli nel lavoro di De Bono: debono.com. Il pensiero laterale serve a creare idee; i Sei Cappelli servono a esplorarle e implementarle. Sono metodi complementari ma distinti.
 

@@ -1,4 +1,4 @@
-# Template — Cappello [NOME]
+# Template  -  Cappello [NOME]
 
 > Copia il blocco qui sotto e incollalo nelle istruzioni del tuo Progetto Claude.
 > Sostituisci tutti i `[placeholder]` con i tuoi dati. Poi elimina questa riga e la precedente.

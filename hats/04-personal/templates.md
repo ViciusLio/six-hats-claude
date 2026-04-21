@@ -1,4 +1,4 @@
-# 🟢 Cappello PERSONALE — Prompt Template
+# 🟢 Cappello PERSONALE  -  Prompt Template
 
 Prompt pronti all'uso per la vita personale e le decisioni che contano.
 
@@ -22,7 +22,7 @@ cosa conta davvero per me in questa decisione.
 
 ```
 Ho bisogno di pensare ad alta voce su [situazione / tema].
-Non ho ancora capito cosa voglio — voglio solo esplorarla.
+Non ho ancora capito cosa voglio  -  voglio solo esplorarla.
 
 Modalità: ASCOLTO. Fai domande, non risolvere.
 ```
@@ -73,5 +73,5 @@ Guidami con domande su:
 - Cosa voglio lasciare andare
 - Una cosa concreta che voglio fare diversamente
 
-Non darmi un framework preconfezionato — fai una domanda alla volta.
+Non darmi un framework preconfezionato  -  fai una domanda alla volta.
 ```

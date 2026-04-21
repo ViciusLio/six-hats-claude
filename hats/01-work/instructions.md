@@ -1,4 +1,4 @@
-# 🔵 Cappello LAVORO — Istruzioni
+# 🔵 Cappello LAVORO  -  Istruzioni
 
 > Copia il testo nel blocco qui sotto e incollalo nelle istruzioni del tuo Progetto Claude.
 > Personalizza i `[placeholder]` con il tuo profilo reale.
@@ -46,10 +46,10 @@ gentilmente che ho un progetto dedicato per quello.
 
 ## Personalizzazione consigliata
 
-**Ruolo tecnico** — sostituisci la riga `Stack / dominio principale` con le tue tecnologie reali. Più sei specifico, migliore è il comportamento del modello su review di codice e architetture.
+**Ruolo tecnico**  -  sostituisci la riga `Stack / dominio principale` con le tue tecnologie reali. Più sei specifico, migliore è il comportamento del modello su review di codice e architetture.
 
-**Ruolo non tecnico** — rimuovi il blocco "FORMATO OUTPUT TECNICI" e sostituiscilo con il formato che ti serve (es. struttura per analisi di business, formato per brief).
+**Ruolo non tecnico**  -  rimuovi il blocco "FORMATO OUTPUT TECNICI" e sostituiscilo con il formato che ti serve (es. struttura per analisi di business, formato per brief).
 
-**Team lead / manager** — aggiungi sotto "Output frequenti": feedback a colleghi, 1:1, roadmap, OKR.
+**Team lead / manager**  -  aggiungi sotto "Output frequenti": feedback a colleghi, 1:1, roadmap, OKR.
 
-**Freelance / consulente** — aggiungi sotto "Compliance": policy su NDA, visibilità delle informazioni del cliente.
+**Freelance / consulente**  -  aggiungi sotto "Compliance": policy su NDA, visibilità delle informazioni del cliente.

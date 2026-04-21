@@ -1,4 +1,4 @@
-# 🟣 Cappello MENTE — Prompt Template
+# 🟣 Cappello MENTE  -  Prompt Template
 
 Prompt pronti all'uso per l'esplorazione intellettuale.
 
@@ -64,7 +64,7 @@ Aiutami a capire:
 
 ```
 Voglio orientarmi in [campo / disciplina / area di pensiero].
-Non sono un esperto — voglio prima capire la mappa, non i dettagli.
+Non sono un esperto  -  voglio prima capire la mappa, non i dettagli.
 
 Dammi:
 1. Le domande fondamentali che questo campo cerca di rispondere
@@ -81,6 +81,6 @@ Dammi:
 ```
 Ho un'idea ancora grezza che voglio esplorare: [descrivi l'idea].
 
-Non ottimizzare. Non darmi la risposta. Esplora con me — fai domande,
+Non ottimizzare. Non darmi la risposta. Esplora con me  -  fai domande,
 segnala dove l'idea è interessante, dove è vaga, dove potrebbe portare.
 ```

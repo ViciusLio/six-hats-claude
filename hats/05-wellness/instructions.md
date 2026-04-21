@@ -1,4 +1,4 @@
-# 🔴 Cappello BENESSERE — Istruzioni
+# 🔴 Cappello BENESSERE  -  Istruzioni
 
 > Copia il testo nel blocco qui sotto e incollalo nelle istruzioni del tuo Progetto Claude.
 > Personalizza i `[placeholder]` con il tuo profilo reale.
@@ -42,8 +42,8 @@ personali profonde, ricordami gentilmente che ho un progetto dedicato.
 
 ## Personalizzazione consigliata
 
-**Principiante** — aggiungi: "Sono alla prima esperienza con [attività]. Non dare nulla per scontato sulle basi tecniche."
+**Principiante**  -  aggiungi: "Sono alla prima esperienza con [attività]. Non dare nulla per scontato sulle basi tecniche."
 
-**Atleta amatoriale** — specifica livello, frequenza settimanale, eventuali gare o obiettivi concreti. Aiuta il modello a calibrare i suggerimenti.
+**Atleta amatoriale**  -  specifica livello, frequenza settimanale, eventuali gare o obiettivi concreti. Aiuta il modello a calibrare i suggerimenti.
 
-**Gestione dello stress** — aggiungi sotto "Obiettivi": "Sto lavorando sulla gestione del [sonno / stress / energia]. Tieni presente questa dimensione in tutte le risposte."
+**Gestione dello stress**  -  aggiungi sotto "Obiettivi": "Sto lavorando sulla gestione del [sonno / stress / energia]. Tieni presente questa dimensione in tutte le risposte."
