@@ -1,4 +1,4 @@
-# 🔵 Cappello LAVORO  -  Prompt Template
+# 🔵 Cappello LAVORO: Prompt Template
 
 Prompt pronti all'uso per il contesto lavorativo. Copia, adatta, usa.
 
@@ -42,7 +42,7 @@ Scrivi una bozza email a [ruolo del destinatario, es. "CTO di un cliente retail"
 Tono: professionale ma diretto. Massimo 150 parole.
 Contesto aggiuntivo: [eventuali dettagli rilevanti]
 
-⚠️ DA VERIFICARE  -  non inviare senza mia revisione.
+⚠️ DA VERIFICARE: non inviare senza mia revisione.
 ```
 
 ---

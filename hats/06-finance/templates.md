@@ -1,4 +1,4 @@
-# ⚪ Cappello FINANZE  -  Prompt Template
+# ⚪ Cappello FINANZE: Prompt Template
 
 Prompt pronti all'uso per le finanze personali.
 

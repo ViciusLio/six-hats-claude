@@ -1,6 +1,6 @@
 # 🎩 I Sei Cappelli di Claude
 
-> *Separare i contesti per pensare meglio  -  ispirato ai Sei Cappelli di Edward De Bono*
+> *Separare i contesti per pensare meglio, ispirato ai Sei Cappelli di Edward De Bono*
 
 **by [Vicius Lio](https://github.com/viciuslio)**
 
@@ -8,11 +8,11 @@
 
 ## Il problema
 
-Usiamo Claude come se fosse un unico strumento per tutto. Un'email professionale, poi Heidegger, poi un bug in produzione, poi cosa cucinare stasera. Claude risponde a tutto  -  ma senza contesto, senza sapere chi stai cercando di essere in quel momento, le risposte sono mediocri. Non perché Claude sia mediocre. Perché l'input è sbagliato.
+Usiamo Claude come se fosse un unico strumento per tutto. Un'email professionale, poi Heidegger, poi un bug in produzione, poi cosa cucinare stasera. Claude risponde a tutto, ma senza contesto, senza sapere chi stai cercando di essere in quel momento, le risposte sono mediocri. Non perché Claude sia mediocre. Perché l'input è sbagliato.
 
 ## La soluzione: i Cappelli
 
-Su Claude puoi creare **Progetti**  -  workspace separati con istruzioni persistenti. Ogni Progetto è un cappello. Ogni cappello ha un contesto preciso, un tono calibrato, regole specifiche.
+Su Claude puoi creare **Progetti** (workspace separati con istruzioni persistenti). Ogni Progetto è un cappello. Ogni cappello ha un contesto preciso, un tono calibrato, regole specifiche.
 
 La differenza pratica è quella che c'è tra parlare con qualcuno che ti conosce e qualcuno a cui devi sempre spiegare tutto da capo.
 
@@ -33,13 +33,13 @@ La differenza pratica è quella che c'è tra parlare con qualcuno che ti conosce
 
 ## Come usare questa repo
 
-### Opzione A  -  Usa un cappello già pronto
+### Opzione A: Usa un cappello già pronto
 1. Scegli il cappello che ti serve dalla cartella `hats/`
 2. Apri `instructions.md` e personalizza i placeholder `[...]`
 3. Su Claude → **Nuovi Progetti** → incolla il testo nelle istruzioni del progetto
 4. Usa i prompt in `templates.md` per iniziare subito
 
-### Opzione B  -  Costruisci il tuo cappello
+### Opzione B: Costruisci il tuo cappello
 1. Leggi [`meta/how-to-build-a-hat.md`](meta/how-to-build-a-hat.md) per capire la logica
 2. Usa [`meta/hat-template.md`](meta/hat-template.md) come punto di partenza
 3. Personalizza in base al tuo contesto
@@ -51,7 +51,7 @@ La differenza pratica è quella che c'è tra parlare con qualcuno che ti conosce
 | Regola | Dettaglio |
 |--------|-----------|
 | **Una chat, un task** | Non mescolare cappelli diversi. Nuova chat = nuovo contesto. |
-| **Chat corte** | Apri una nuova chat spesso  -  il context rot è reale. |
+| **Chat corte** | Apri una nuova chat spesso (il context rot è reale). |
 | **Istruzioni sotto 500 parole** | Ogni parola in più è un token in meno per il lavoro vero. |
 | **Cappelli come strumenti, non identità** | Sono modalità temporanee, non personalità rigide. |
 
@@ -61,7 +61,7 @@ La differenza pratica è quella che c'è tra parlare con qualcuno che ti conosce
 
 Questo sistema è un'ispirazione ai Sei Cappelli di De Bono, non un'implementazione fedele. De Bono usava i cappelli come stati temporanei; questa implementazione rischia di renderli identità fisse. Tienilo a mente.
 
-Le istruzioni consumano token. Mantienile concise  -  massimo 400-500 parole per cappello.
+Le istruzioni consumano token. Mantienile concise: massimo 400-500 parole per cappello.
 
 Il sistema non risolve il context rot, lo sposta per contesto. Apri nuove chat frequentemente.
 
@@ -90,7 +90,7 @@ six-hats-claude/
 
 ## Contribuire
 
-Hai un cappello che funziona bene e vuoi condividerlo? Apri una PR con la struttura standard (`instructions.md` + `templates.md`) nella cartella `hats/`. Generalizza sempre i placeholder  -  questa repo serve a chiunque, non solo a te.
+Hai un cappello che funziona bene e vuoi condividerlo? Apri una PR con la struttura standard (`instructions.md` + `templates.md`) nella cartella `hats/`. Generalizza sempre i placeholder: questa repo serve a chiunque, non solo a te.
 
 ---
 
