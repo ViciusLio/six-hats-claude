@@ -2,7 +2,7 @@
 
 > *Separare i contesti per pensare meglio, ispirato ai Sei Cappelli di Edward De Bono*
 
-**by [Vicius Lio](https://github.com/viciuslio)**
+**by [Vicius Lio](https://www.linkedin.com/in/vincenzo-lio-dataengineer/)**
 
 ---
 
@@ -96,7 +96,7 @@ Hai un cappello che funziona bene e vuoi condividerlo? Apri una PR con la strutt
 
 ## Articolo
 
-L'idea dietro questo sistema è spiegata nell'articolo *"I sei cappelli di Claude"* pubblicato su Medium.
+L'idea dietro questo sistema è spiegata nell'articolo [*I sei cappelli di Claude*](https://medium.com/@viciuslios/i-sei-cappelli-di-claude-6a648056e45f) pubblicato su Medium.
 
 ---
 
